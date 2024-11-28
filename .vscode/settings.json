@@ -1,0 +1,9 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "files.watcherExclude": {
+      "**/flutter_tools/gradle/**": true
+  },
+  "dart.flutterHotReloadOnSave": "all",     // Hot Reload pour tous les fichiers modifiés
+  "files.autoSave": "off",                  // Désactive la sauvegarde automatique
+  "editor.formatOnSave": true               // Active le formatage à la sauvegarde
+}
